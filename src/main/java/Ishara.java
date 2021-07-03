@@ -3,6 +3,6 @@ public class Ishara {
         System.out.println("My Name Ishara");
         //System.out.println("My Name Ishara");
         System.out.println("My second name is Udayangani");
-        System.out.println("My last name is Rajaguru");
+        System.out.println("My third name is Rajaguru");
     }
 }
